@@ -1,0 +1,5 @@
+# Jogos: Adivinhação (Números) e Forca
+---
+
+Neste repositório, está a implementação de 2 jogos apresentados na apostila **Python e Orientação a Objetos**
+oferecido pela Caelum. O repositório contém 5 arquivos e cada um deles compõem o menu de jogos oferecidos através do arquivo *menu.py*. O arquivo *arquivo.py* utiliza as funções de manipulação de arquivos do Python e cria uma lista de palavras que são armazenadas no *palavras.txt*. O arquivo *advinhacao.py* contem a implemtação do jogo da adivinhação de número e o *forca.py* contém a implementação do jogo da forca. Para jogar os jogos basta executar o arquivo *menu.py* e selecionar uma das opções apresentadas. Por fim, para testar ou modificar os códigos deste repositório, basta baixá-lo em sua máquina e executá-los utilizando a vesrão 3 do Python.
